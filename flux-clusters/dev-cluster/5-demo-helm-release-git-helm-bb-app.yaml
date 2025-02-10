@@ -19,7 +19,7 @@ spec:
       app:
         env: dev
         name: block-buster
-        version: 7.6.0
+        version: 7.5.0
     namespace:
       name: 5-demo
     replicaCount: 1
